@@ -24,26 +24,26 @@
 
 // export const QUITPLAN_URL = "http://34.64.124.168/quitnow/quitplan/";
 
-export const QUITPLAN_URL = "http://34.64.124.168/quitnow/quitplan/";
+export const QUITPLAN_URL = "https://localhost:8000/quitnow/quitplan/";
 
-export const CREATION_URL = "http://34.64.124.168/quitnow/creation/";
+export const CREATION_URL = "https://localhost:8000/quitnow/creation/";
 
-export const LOGIN_URL = "http://34.64.124.168/quitnow/login/";
+export const LOGIN_URL = "https://localhost:8000/quitnow/login/";
 
-export const TOKEN_URL = "http://34.64.124.168/api/token/";
+export const TOKEN_URL = "https://localhost:8000/api/token/";
 
-export const RETOKEN_URL = "http://34.64.124.168/api/token/refresh";
+export const RETOKEN_URL = "https://localhost:8000/api/token/refresh";
 
-export const CREATE_PLAN_URL = "http://34.64.124.168/quitnow/createplan/";
+export const CREATE_PLAN_URL = "https://localhost:8000/quitnow/createplan/";
 
-export const VIEW_PLAN_URL = "http://34.64.124.168/quitnow/viewplan/";
+export const VIEW_PLAN_URL = "https://localhost:8000/quitnow/viewplan/";
 
-export const UPDATE_PLAN_URL = "http://34.64.124.168/quitnow/updateplan/";
+export const UPDATE_PLAN_URL = "https://localhost:8000/quitnow/updateplan/";
 
-export const EDITPROFILE_URL = "http://34.64.124.168/quitnow/editprofile/";
+export const EDITPROFILE_URL = "https://localhost:8000/quitnow/editprofile/";
 
-export const HOMEPAGE_URL = "http://34.64.124.168/quitnow/homepage/";
+export const HOMEPAGE_URL = "https://localhost:8000/quitnow/homepage/";
 
-export const VIEW_PROFILE_URL = "http://34.64.124.168/quitnow/profile/";
+export const VIEW_PROFILE_URL = "https://localhost:8000/quitnow/profile/";
 
-export const VIEW_COMMUNITY_URL = "http://34.64.124.168/quitnow/community/";
+export const VIEW_COMMUNITY_URL = "https://localhost:8000/quitnow/community/";

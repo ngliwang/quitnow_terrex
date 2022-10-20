@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "django.contrib.postgres",
     "django_extensions",
+    "sslserver",
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
